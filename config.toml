@@ -1,0 +1,46 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+theme = 'graysx'
+title = 'Legday Acro'
+
+## Site Settings
+[params]
+logo = "assets/img/logo3.webp"
+favicon = "assets/favicon.png"
+
+# Info
+address = "123 Arch B1W, GNU/Linux"
+email = "acro@legday.no"
+phone = "123456"
+
+# Socials
+facebook = "https://www.facebook.com/legdayacro"
+instagram = "https://instagram.com/legdayacro"
+
+# Other
+
+# Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
+sbtoken = "TOKEN_HERE"
+
+## Menu Items
+[menu]
+  [[menu.main]]
+  name = "About me"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Values and why"
+  URL = "#projects"
+  weight = 2
+
+  [[menu.main]]
+  name = "Workshops and classes"
+  URL = "#classes"
+  weight = 3
+
+
+# Credits
+
+# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
+# This theme is forked by: https://github.com/akatiggerx04

@@ -1,0 +1,48 @@
+# Main Title
+main:
+  header:
+    title: "Legday Acro" # Title Text
+    description: "Partner acrobatics and acroyoga teacher" # Title Desc
+    button:
+      text: "Workshops and classes" # Button Text
+      url: "#classes" # Button URL
+
+# About
+about:
+  title: "About me"
+  desc: |
+    I'm a certified AcroYoga International teacher who fell in love with AcroYoga due to its playfulness, physical challenge, and community.
+    Specialising in standing acrobatics and Icarian games, I find it crucial to focus on the basics in order to progress in a safe, sustainable manner.
+    I'm a huge nerd about technique and love breaking down tricks into their finest details. 
+    While I primarily base, I never say no to fly a hand-to-hand or two!
+  button:
+    enable: false
+    text: "Instagram"
+    url: "https://instagram.com/legdayacro"
+  # image: "assets/img/ipad3.png"
+
+projects:
+  card1:
+    title: "Playfulness"
+    text: "Play improves your cognitive, physical, social, and emotional well-being. Through play, we learn about the world and ourselves. We also learn skills for study, work and relationships such as: Confidence, self-esteem, independence, and coping with challenging situations"
+    img: "assets/img/acro4.jpg"
+  card2:
+    title: "Body & Mind"
+    text: "Exercise is powerful medicine. Exercise is an important part of a healthy lifestyle. Exercise prevents health problems, builds strength, boosts energy, and can help you reduce stress. It can also help you maintain a healthy body weight and curb your appetite."
+    img: "assets/img/acro1.jpg"
+  card3:
+    title: "Community"
+    text: "Having a sense of community unites us. Being a part of a community can make us feel as though we are a part of something greater than ourselves. It can give us opportunities to connect with people, to reach for our goals, and makes us feel safe and secure."
+    img: "assets/img/acro3.jpg"
+
+classes:
+  text: I offer a variety of classes and workshops, specialising in standing acrobatics, Icarian games, and dynamic acro.
+  class1:
+    title: Private Coaching
+    text: Do you want to supercharge your partner acrobatics abilities? Maybe you're stuck on a specific skill or struggling with trauma after a bad fall? Private coaching might be just right for you in this case.
+  class2:
+    title: Workshops
+    text: Being nomadic, I teach workshops all over the world with varying topics. These most often includes standing acrobatics, Icarian games, and dynamic acro. Interesting in elevating your community? This is what you want.
+  class3:
+    title: Regular Classes
+    text: Series of classes like these often follow a specific category and aim to build up the participants' skills over a longer period of time. I love to incorporate drills and progressions to enable higher level tricks.
