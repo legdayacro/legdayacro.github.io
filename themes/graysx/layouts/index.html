@@ -30,7 +30,9 @@
                         {{ end }}
                     </div>
                 </div>
-                <img class="img-fluid" src="{{ .image }}" alt="..." />
+                {{ if .image.enable }}
+                <img class="img-fluid" src="{{ .image.url }}" alt="..." />
+                {{ end }}
             </div>
         </section>
         {{ end }}

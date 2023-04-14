@@ -19,7 +19,9 @@ about:
     enable: false
     text: "Instagram"
     url: "https://instagram.com/legdayacro"
-  # image: "assets/img/ipad3.png"
+  image:
+    enabled: false
+    url: "assets/img/ipad3.png"
 
 projects:
   card1:
