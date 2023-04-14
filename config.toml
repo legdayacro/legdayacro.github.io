@@ -38,6 +38,11 @@ sbtoken = "TOKEN_HERE"
   name = "Workshops and classes"
   URL = "#classes"
   weight = 3
+  
+[[module.mounts]]
+  source = 'static/assets/img'
+  target = 'assets'
+
 
 
 # Credits

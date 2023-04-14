@@ -27,15 +27,15 @@ projects:
   card1:
     title: "Playfulness"
     text: "Play improves your cognitive, physical, social, and emotional well-being. Through play, we learn about the world and ourselves. We also learn skills for study, work and relationships such as: Confidence, self-esteem, independence, and coping with challenging situations"
-    img: "assets/img/acro4.jpg"
+    img: "acro3.webp"
   card2:
     title: "Body & Mind"
     text: "Exercise is powerful medicine. Exercise is an important part of a healthy lifestyle. Exercise prevents health problems, builds strength, boosts energy, and can help you reduce stress. It can also help you maintain a healthy body weight and curb your appetite."
-    img: "assets/img/acro1.jpg"
+    img: "acro1.webp"
   card3:
     title: "Community"
     text: "Having a sense of community unites us. Being a part of a community can make us feel as though we are a part of something greater than ourselves. It can give us opportunities to connect with people, to reach for our goals, and makes us feel safe and secure."
-    img: "assets/img/acro3.jpg"
+    img: "acro2.webp"
 
 classes:
   text: I offer a variety of classes and workshops, specialising in standing acrobatics, Icarian games, and dynamic acro.
